@@ -1,4 +1,4 @@
-name: Gravity Studio CI
+name: Qaint CI
 
 on:
   pull_request:
