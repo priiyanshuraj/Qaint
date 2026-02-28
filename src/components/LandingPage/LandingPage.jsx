@@ -92,7 +92,7 @@ const LandingPage = () => {
                         A Secure Product Demo Lab 
                     </div>
                     <h1 className="hero-title">
-                        The Smart <span className="text-gradient">Product Demo Studio</span> for Secure & Local Recording.
+                        The Smart <span className="text-gradient">Product Demo Lab</span> for Secure & Local Recording.
                     </h1>
                     <p className="hero-subtitle">
                         Qaint is a browser-based demo lab engineered for serious workflows. Design your canvas, overlay your camera, control your mic, and record high-resolution demos up to 2K ~ all running locally for maximum performance.
