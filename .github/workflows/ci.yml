@@ -1,3 +1,4 @@
+#workflow for continuous integration of the Qaint project. It triggers on pull requests and pushes to the master branch, ensuring that the code is built and dependencies are installed correctly.
 name: Qaint CI
 
 on:
