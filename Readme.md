@@ -4,7 +4,7 @@ Qaint is a browser-based interactive demo recording platform designed for produc
 
 This repository contains the source code for qaint.in.
 
----
+
 
 ## What Qaint Does
 
@@ -19,7 +19,7 @@ Qaint allows you to:
 
 The platform focuses on clarity, speed, and user control.
 
----
+
 
 ## Core Features
 
@@ -63,7 +63,7 @@ The platform focuses on clarity, speed, and user control.
 - No forced publishing  
 - Suitable for internal or confidential workflows  
 
----
+
 
 ## How It Works
 
@@ -76,7 +76,7 @@ The platform focuses on clarity, speed, and user control.
 
 The workflow is designed to minimize friction and reduce the time between capture and distribution.
 
----
+
 
 ## Use Cases
 
@@ -90,7 +90,7 @@ Qaint is suitable for:
 - Internal release documentation  
 - Educational tutorials  
 
----
+
 
 ## Technical Overview
 
@@ -102,7 +102,7 @@ Qaint is suitable for:
 
 See the project manifest for exact dependencies and versions.
 
----
+
 
 ## Contributing
 
@@ -122,8 +122,9 @@ Preferred contributions:
 
 Open an issue before proposing major structural changes.
 
----
+
 
 ## License
 
 Licensed under Apache License 2.0.
+
